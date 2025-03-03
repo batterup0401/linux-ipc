@@ -4,5 +4,8 @@
 # unignore all with extensions
 !*.*
 
-# unihnotr add dirs
+# unignore add dirs
 !*/
+
+# unignore Makefile
+!Makefile
